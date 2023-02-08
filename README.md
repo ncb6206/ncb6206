@@ -4,6 +4,12 @@
  
 [![KyuTae's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncb6206&theme=tokyonight)](https://github.com/ncb6206/github-readme-stats)
 
+<h3> 개발한 프로젝트 </h3>
+ <hr/>
+<div>
+ <p>은어에 대한 정보와 대체단어를 이용한 문장변환 앱 서비스 : https://github.com/orgs/Team-Dowon/repositories</p>
+ <p>사용자의 피부질환 판별 및 정보 공유를 해주는 웹 서비스 : https://github.com/Team-DumdiDumdi</p>
+</div>
 <!--
 **ncb6206/ncb6206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
