@@ -2,7 +2,7 @@
  
 > 💻심플함과 만족감을 추구하는 개발자 나규태입니다. <br/>
 > 실용성 있는 프로젝트를 만들어 나가고 싶습니다. 😄<br/>
-- Email | ncb6206@naver.com / ncb6206@gmail.com 
+- Email | ncb6206@gmail.com 
  <br/>
  🎓 ChungBuk National Univ. Computer Science 2017.03 ~ 2023.02
  <br/> <br/>
