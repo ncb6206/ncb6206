@@ -15,9 +15,9 @@
 ### Projects 
 <hr/>
 
-[은어에 대한 정보와 대체단어를 이용한 문장변환 앱 서비스](https://github.com/orgs/Team-Dowon/repositories) (22.09 ~ 22.11)
+[은어에 대한 정보와 대체단어를 이용한 문장변환 앱 서비스](https://github.com/Team-Dowon/Dowon-FE) (22.09 ~ 22.11)
 <br/> <br/>
-[사용자의 피부질환 판별 및 정보 공유를 해주는 웹 서비스](https://github.com/orgs/Team-Dowon/repositories) (22.06 ~ 22.07)
+[사용자의 피부질환 판별 및 정보 공유를 해주는 웹 서비스](https://github.com/Team-DumdiDumdi/Derm.D-client) (22.06 ~ 22.07)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fncb6206%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
