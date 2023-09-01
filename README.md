@@ -15,7 +15,7 @@
 ### Projects 
 <hr/>
 
-[한국임상정보 검색창 컴포넌트 클론 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-4-12) (23.07 ~ 23.07) <br/> <br/>
+[한국임상정보 검색창 컴포넌트 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-4-12) (23.07 ~ 23.07) <br/> <br/>
 [깃허브 이슈 출력 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-3-12) (23.07 ~ 23.07) <br/> <br/>
 [Todo리스트 관리 웹 어플리케이션](https://github.com/ncb6206/wanted-pre-onboarding-frontend) (23.06 ~ 23.06) <br/> <br/>
 [은어에 대한 정보와 대체단어를 이용한 문장변환 앱 서비스](https://github.com/Team-Dowon/Dowon-FE) (22.09 ~ 22.11)
