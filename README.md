@@ -15,7 +15,7 @@
 ### Projects 
 <hr/>
 
-[위치를 기반으로 식사 메뉴와 주변 식당을 추천하는 모바일 웹서비스](https://github.com/ncb6206/RiceDecider) (23.11 ~ 23.11) <br/> <br/>
+[위치를 기반으로 식사 메뉴와 주변 식당을 추천하는 모바일 웹서비스](https://github.com/ncb6206/RiceDecider) (23.11 ~ 23.12) <br/> <br/>
 [상품 목록 조회 웹 어플리케이션](https://github.com/ncb6206/natest-shop) (23.09 ~ 23.09) <br/> <br/>
 [한국임상정보 검색창 컴포넌트 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-4-12) (23.07 ~ 23.07) <br/> <br/>
 [깃허브 이슈 출력 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-3-12) (23.07 ~ 23.07) <br/> <br/>
