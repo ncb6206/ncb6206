@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=26&height=150&section=header&text=It's%20Na%20Github&fontSize=90&animation=fadeIn)
  
-> 💻심플함과 만족감을 추구하는 개발자 나규태입니다. <br/>
+> 💻 그대의 꿈을 그리는 개발자 나규태입니다. <br/>
 > 실용성 있는 프로젝트를 만들어 나가고 싶습니다. 😄<br/>
 - Email | ncb6206@gmail.com 
  <br/>
@@ -15,6 +15,8 @@
 ### Projects 
 <hr/>
 
+[위치를 기반으로 식사 메뉴와 주변 식당을 추천하는 모바일 웹서비스](https://github.com/ncb6206/RiceDecider) (23.11 ~ 23.11) <br/> <br/>
+[상품 목록 조회 웹 어플리케이션](https://github.com/ncb6206/natest-shop) (23.09 ~ 23.09) <br/> <br/>
 [한국임상정보 검색창 컴포넌트 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-4-12) (23.07 ~ 23.07) <br/> <br/>
 [깃허브 이슈 출력 웹 어플리케이션](https://github.com/ncb6206/pre-onboarding-11th-3-12) (23.07 ~ 23.07) <br/> <br/>
 [Todo 리스트 관리 웹 어플리케이션](https://github.com/ncb6206/wanted-pre-onboarding-frontend) (23.06 ~ 23.06) <br/> <br/>
