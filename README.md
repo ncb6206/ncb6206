@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=26&height=150&section=header&text=It's%20Na%20Github&fontSize=90&animation=fadeIn)
  
-> 💻 그대의 꿈을 그리는 개발자 나규태입니다. <br/>
+> 💻 화면에 꿈을 그리는 개발자 나규태입니다. <br/>
 > 실용성 있는 프로젝트를 만들어 나가고 싶습니다. 😄<br/>
 - Email | ncb6206@gmail.com 
  <br/>
