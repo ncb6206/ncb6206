@@ -15,6 +15,8 @@
 ### Projects 
 <hr/>
 
+[알고리즘 스터디 관리 웹서비스](https://github.com/ncb6206/front) (25.01 ~ 25.03) <br/> <br/>
+[놀이터 친구 모집 웹앱 서비스](https://github.com/ncb6206/Playground) (24.10 ~ 24.12) <br/> <br/>
 [주식 정보 공유 SNS 웹서비스](https://github.com/ncb6206/stockaca) (24.04 ~ 24.05) <br/> <br/>
 [위치를 기반으로 식사 메뉴와 주변 식당을 추천하는 모바일 웹서비스](https://github.com/ncb6206/RiceDecider) (23.11 ~ 23.12) <br/> <br/>
 [상품 목록 조회 웹 어플리케이션](https://github.com/ncb6206/natest-shop) (23.09 ~ 23.09) <br/> <br/>
@@ -26,7 +28,6 @@
 [사용자의 피부질환 판별 및 정보 공유를 해주는 웹 서비스](https://github.com/Team-DumdiDumdi/Derm.D-client) (22.06 ~ 22.07)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fncb6206%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **ncb6206/ncb6206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
